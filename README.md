@@ -2,7 +2,7 @@
 Dataset :
 Train Set contains 36517 images collected from FER training set, SFEW training set , KDEF nd CK+ sets
 
-Test  on SFEW: 
+Testing accuracy on FER: 
 59.2%
 
 
